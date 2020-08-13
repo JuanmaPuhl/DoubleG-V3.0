@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="welcome_text_dimen">48sp</dimen>
+    <dimen name="welcome_text_dimen">64sp</dimen>
     <dimen name="action_text_dimen">24sp</dimen>
 
 

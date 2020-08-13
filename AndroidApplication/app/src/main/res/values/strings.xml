@@ -10,4 +10,5 @@
     <string name="forgot_password_es">¿Olvidaste tu contraseña?</string>
     <string name="fb_button_description">facebookLogin</string>
     <string name="google_button_description">googleLogin</string>
+    <string name="login_background_description">loginBackground</string>
 </resources>
