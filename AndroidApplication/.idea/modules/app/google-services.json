@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "666575576001",
+    "firebase_url": "https://doubleg-e824d.firebaseio.com",
+    "project_id": "doubleg-e824d",
+    "storage_bucket": "doubleg-e824d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666575576001:android:b61b31ac860aaf511d2d40",
+        "android_client_info": {
+          "package_name": "com.doubleg.doubleg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666575576001-85btf5r1d1t9vki32du2cfqj729j0qad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doubleg.doubleg",
+            "certificate_hash": "b3055a71d2f6f5403a61f44bf5c9bea2fff40610"
+          }
+        },
+        {
+          "client_id": "666575576001-sd45ndi8a56knsk98fumor2busfapdqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRrqIUsf-fn-Y0jU0ScTiClonc6Ic5d6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666575576001-sd45ndi8a56knsk98fumor2busfapdqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
