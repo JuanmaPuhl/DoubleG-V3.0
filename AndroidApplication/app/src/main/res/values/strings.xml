@@ -2,7 +2,7 @@
     <string name="app_name">DoubleG</string>
     <string name="login_text_box_1_es">Nombre de usuario</string>
     <string name="login_text_box_2_es">Contraseña</string>
-    <string name="login_welcome_text_es">Hola</string>
+    <string name="login_welcome_text_es">Hola!</string>
     <string name="login_action_text_es">Ingresa a tu cuenta</string>
     <string name="login_button_text_es">Ingresar</string>
     <string name="create_account_info_text_es">¿No tienes una cuenta? </string>
