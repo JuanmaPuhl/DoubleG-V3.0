@@ -11,4 +11,13 @@
     <string name="fb_button_description">facebookLogin</string>
     <string name="google_button_description">googleLogin</string>
     <string name="login_background_description">loginBackground</string>
+    <string name="register_first_name_es">Nombre</string>
+    <string name="register_last_name_es">Apellido</string>
+    <string name="register_button_text_es">Registrar</string>
+    <string name="register_user_name_es">Nombre de usuario</string>
+    <string name="register_mail_es">Email</string>
+    <string name="register_password_es">Contraseña</string>
+    <string name="register_birth_date_es">Fecha de nacimiento</string>
+    <string name="login_account_info_text_es">¿Ya tienes una cuenta?</string>
+    <string name="login_account_link_es">Ingresar</string>
 </resources>
